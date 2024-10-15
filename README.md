@@ -1,2 +1,2 @@
 # data-projects
-Holds my data science and analytics projects. Can be personal, school, or work related.
+Holds my data science and analytics projects. Will be personal, school, or work related.
