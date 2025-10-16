@@ -1,5 +1,8 @@
 # data-projects
-Holds my personal or academic data science/analytics projects. 
+Holds my personal or academic data science/analytics projects.
+
+## independent-study
+- Relevant documentation and code for my independent study at NCSU
 
 ## DataSciencePrompt_FanEngagement
 - Data science and analytics exercise used as part of a job application.
