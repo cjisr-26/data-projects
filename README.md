@@ -1,5 +1,5 @@
 # data-projects
-Holds my personal or academic data science/analytics projects.
+My personal and/or academic data science, engineering, and analytics projects.
 
 ## independent-study
 - Relevant documentation and code for my independent study at NCSU
