@@ -2,7 +2,7 @@
 My personal and/or academic data science, engineering, and analytics projects.
 
 ## independent-study
-- Relevant documentation and code for my independent study at NCSU
+- Relevant documentation and code for my data engineering independent study at NCSU
 
 ## DataSciencePrompt_FanEngagement
 - Data science and analytics exercise used as part of a job application.
