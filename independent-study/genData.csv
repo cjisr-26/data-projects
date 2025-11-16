@@ -1,0 +1,211 @@
+first_name,last_name,email,course,date,time_in,time_out,work_type
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/13/2025,9:53 AM,12:13 PM,Proctoring
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/25/2025,2:03 PM,6:11 PM,Office Hours
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/7/2025,11:54 AM,1:55 PM,Lab
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/6/2025,2:50 PM,6:02 PM,Lab
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/6/2025,2:11 PM,4:41 PM,Office Hours
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/27/2025,10:27 AM,12:10 PM,Communication
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/2/2025,5:25 PM,8:38 PM,Grading
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/1/2025,3:52 PM,5:27 PM,Communication
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/11/2025,3:13 PM,4:43 PM,Office Hours
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/30/2025,4:39 PM,8:58 PM,Proctoring
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/14/2025,12:35 PM,4:38 PM,Communication
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/28/2025,12:23 PM,1:24 PM,Office Hours
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/13/2025,12:47 PM,1:11 PM,Office Hours
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/28/2025,4:32 PM,8:01 PM,Communication
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/18/2025,3:36 PM,4:31 PM,Grading
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/17/2025,2:05 PM,4:11 PM,Communication
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/17/2025,11:50 AM,3:31 PM,Grading
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/30/2025,11:06 AM,1:17 PM,Proctoring
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/26/2025,9:49 AM,11:02 AM,Office Hours
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/3/2025,2:23 PM,6:09 PM,Lab
+Zorita,Moon,zmoon@ncsu.edu,CSC216,10/11/2025,12:27 PM,1:03 PM,Office Hours
+Sara,David,sdavid@ncsu.edu,E298,10/20/2025,9:30 AM,12:58 PM,Communication
+Sara,David,sdavid@ncsu.edu,E298,10/27/2025,10:23 AM,1:37 PM,Lab
+Sara,David,sdavid@ncsu.edu,E298,10/28/2025,1:01 PM,4:49 PM,Proctoring
+Sara,David,sdavid@ncsu.edu,E298,10/11/2025,2:51 PM,6:32 PM,Office Hours
+Sara,David,sdavid@ncsu.edu,E298,10/20/2025,9:23 AM,1:45 PM,Communication
+Sara,David,sdavid@ncsu.edu,E298,10/5/2025,2:36 PM,4:03 PM,Lab
+Sara,David,sdavid@ncsu.edu,E298,10/6/2025,10:24 AM,12:28 PM,Communication
+Sara,David,sdavid@ncsu.edu,E298,10/29/2025,2:31 PM,4:05 PM,Grading
+Sara,David,sdavid@ncsu.edu,E298,10/9/2025,8:45 AM,11:11 AM,Lab
+Sara,David,sdavid@ncsu.edu,E298,10/20/2025,3:25 PM,7:57 PM,Proctoring
+Sara,David,sdavid@ncsu.edu,E298,10/15/2025,5:21 PM,9:40 PM,Lab
+Sara,David,sdavid@ncsu.edu,E298,10/24/2025,2:30 PM,6:11 PM,Proctoring
+Sara,David,sdavid@ncsu.edu,E298,10/6/2025,5:56 PM,9:31 PM,Grading
+Sara,David,sdavid@ncsu.edu,E298,10/8/2025,5:18 PM,8:05 PM,Communication
+Sara,David,sdavid@ncsu.edu,E298,10/30/2025,1:14 PM,2:27 PM,Communication
+Sara,David,sdavid@ncsu.edu,E298,10/14/2025,3:16 PM,7:24 PM,Meeting
+Sara,David,sdavid@ncsu.edu,E298,10/24/2025,10:03 AM,12:45 PM,Office Hours
+Sara,David,sdavid@ncsu.edu,E298,10/28/2025,9:58 AM,10:35 AM,Meeting
+Sara,David,sdavid@ncsu.edu,E298,10/13/2025,12:43 PM,4:18 PM,Lab
+Sara,David,sdavid@ncsu.edu,E298,10/31/2025,3:45 PM,4:57 PM,Office Hours
+Sara,David,sdavid@ncsu.edu,E298,10/11/2025,12:44 PM,4:47 PM,Communication
+Otto,Morton,omorton@ncsu.edu,E298,10/16/2025,9:51 AM,12:46 PM,Proctoring
+Otto,Morton,omorton@ncsu.edu,E298,10/11/2025,5:56 PM,9:02 PM,Grading
+Otto,Morton,omorton@ncsu.edu,E298,10/1/2025,12:08 PM,2:01 PM,Proctoring
+Otto,Morton,omorton@ncsu.edu,E298,10/24/2025,5:15 PM,9:58 PM,Proctoring
+Otto,Morton,omorton@ncsu.edu,E298,10/21/2025,5:54 PM,8:37 PM,Meeting
+Otto,Morton,omorton@ncsu.edu,E298,10/31/2025,12:14 PM,4:01 PM,Lab
+Otto,Morton,omorton@ncsu.edu,E298,10/7/2025,9:01 AM,1:48 PM,Office Hours
+Otto,Morton,omorton@ncsu.edu,E298,10/25/2025,1:27 PM,3:34 PM,Meeting
+Otto,Morton,omorton@ncsu.edu,E298,10/29/2025,9:19 AM,1:18 PM,Office Hours
+Otto,Morton,omorton@ncsu.edu,E298,10/13/2025,3:07 PM,4:01 PM,Grading
+Otto,Morton,omorton@ncsu.edu,E298,10/9/2025,2:20 PM,5:02 PM,Office Hours
+Otto,Morton,omorton@ncsu.edu,E298,10/24/2025,1:40 PM,5:24 PM,Office Hours
+Otto,Morton,omorton@ncsu.edu,E298,10/9/2025,4:24 PM,6:05 PM,Lab
+Otto,Morton,omorton@ncsu.edu,E298,10/23/2025,4:36 PM,6:34 PM,Communication
+Otto,Morton,omorton@ncsu.edu,E298,10/29/2025,3:15 PM,5:57 PM,Office Hours
+Otto,Morton,omorton@ncsu.edu,E298,10/28/2025,8:33 AM,12:20 PM,Lab
+Otto,Morton,omorton@ncsu.edu,E298,10/8/2025,5:56 PM,6:22 PM,Proctoring
+Otto,Morton,omorton@ncsu.edu,E298,10/5/2025,8:16 AM,12:19 PM,Proctoring
+Otto,Morton,omorton@ncsu.edu,E298,10/20/2025,4:47 PM,5:12 PM,Lab
+Otto,Morton,omorton@ncsu.edu,E298,10/3/2025,5:53 PM,8:51 PM,Lab
+Otto,Morton,omorton@ncsu.edu,E298,10/9/2025,8:32 AM,12:05 PM,Meeting
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/3/2025,10:04 AM,12:33 PM,Communication
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/27/2025,10:08 AM,12:07 PM,Grading
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/6/2025,10:32 AM,1:19 PM,Proctoring
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/18/2025,8:00 AM,11:13 AM,Grading
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/29/2025,1:03 PM,4:57 PM,Meeting
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/4/2025,12:06 PM,2:15 PM,Communication
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/16/2025,5:38 PM,9:49 PM,Grading
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/6/2025,3:49 PM,4:35 PM,Proctoring
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/18/2025,10:46 AM,11:48 AM,Grading
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/9/2025,12:58 PM,1:57 PM,Meeting
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/2/2025,12:34 PM,1:31 PM,Communication
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/8/2025,10:33 AM,11:56 AM,Communication
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/22/2025,8:22 AM,10:04 AM,Proctoring
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/31/2025,2:22 PM,3:36 PM,Grading
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/9/2025,9:57 AM,1:24 PM,Lab
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/31/2025,1:04 PM,4:58 PM,Lab
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/6/2025,5:57 PM,7:05 PM,Proctoring
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/9/2025,4:39 PM,6:01 PM,Communication
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/5/2025,1:53 PM,4:18 PM,Lab
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/6/2025,1:08 PM,4:21 PM,Proctoring
+Connor,Davenport,cdavenp@ncsu.edu,CSC216,10/19/2025,2:34 PM,6:20 PM,Grading
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/2/2025,3:56 PM,4:29 PM,Meeting
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/26/2025,4:47 PM,6:57 PM,Lab
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/19/2025,4:17 PM,6:44 PM,Grading
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/14/2025,10:10 AM,2:57 PM,Meeting
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/30/2025,9:16 AM,11:00 AM,Meeting
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/8/2025,11:43 AM,1:50 PM,Office Hours
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/24/2025,1:12 PM,5:11 PM,Office Hours
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/12/2025,9:06 AM,10:56 AM,Lab
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/6/2025,8:05 AM,9:49 AM,Lab
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/22/2025,12:05 PM,1:55 PM,Lab
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/27/2025,10:13 AM,1:18 PM,Communication
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/21/2025,12:25 PM,2:52 PM,Office Hours
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/26/2025,8:36 AM,12:18 PM,Communication
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/12/2025,11:12 AM,12:03 PM,Meeting
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/24/2025,9:12 AM,11:13 AM,Communication
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/2/2025,5:40 PM,6:31 PM,Communication
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/5/2025,9:06 AM,12:07 PM,Office Hours
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/12/2025,10:21 AM,2:56 PM,Lab
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/25/2025,5:07 PM,8:19 PM,Proctoring
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/19/2025,9:59 AM,10:01 AM,Office Hours
+Kato,Jenkins,kjenkin@ncsu.edu,CSC116,10/5/2025,5:24 PM,7:17 PM,Grading
+Charles,Park,cpark@ncsu.edu,CSC216,10/25/2025,12:31 PM,2:01 PM,Grading
+Charles,Park,cpark@ncsu.edu,CSC216,10/19/2025,8:56 AM,9:43 AM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/28/2025,1:01 PM,2:17 PM,Lab
+Charles,Park,cpark@ncsu.edu,CSC216,10/28/2025,5:16 PM,8:11 PM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/16/2025,11:56 AM,2:16 PM,Lab
+Charles,Park,cpark@ncsu.edu,CSC216,10/10/2025,12:32 PM,2:36 PM,Lab
+Charles,Park,cpark@ncsu.edu,CSC216,10/13/2025,2:44 PM,6:26 PM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/25/2025,10:15 AM,2:29 PM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/12/2025,12:24 PM,2:51 PM,Meeting
+Charles,Park,cpark@ncsu.edu,CSC216,10/7/2025,11:59 AM,2:55 PM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/23/2025,1:17 PM,2:13 PM,Meeting
+Charles,Park,cpark@ncsu.edu,CSC216,10/8/2025,1:58 PM,5:26 PM,Grading
+Charles,Park,cpark@ncsu.edu,CSC216,10/14/2025,4:38 PM,7:18 PM,Meeting
+Charles,Park,cpark@ncsu.edu,CSC216,10/20/2025,4:06 PM,8:06 PM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/24/2025,9:25 AM,11:01 AM,Grading
+Charles,Park,cpark@ncsu.edu,CSC216,10/18/2025,12:31 PM,3:28 PM,Communication
+Charles,Park,cpark@ncsu.edu,CSC216,10/7/2025,8:58 AM,10:56 AM,Lab
+Charles,Park,cpark@ncsu.edu,CSC216,10/29/2025,1:20 PM,4:45 PM,Lab
+Charles,Park,cpark@ncsu.edu,CSC216,10/6/2025,5:18 PM,8:15 PM,Meeting
+Charles,Park,cpark@ncsu.edu,CSC216,10/8/2025,12:19 PM,4:13 PM,Grading
+Charles,Park,cpark@ncsu.edu,CSC216,10/7/2025,5:18 PM,9:21 PM,Office Hours
+Bruce,Parsons,bparson@ncsu.edu,E115,10/7/2025,4:42 PM,8:48 PM,Lab
+Bruce,Parsons,bparson@ncsu.edu,E115,10/24/2025,10:53 AM,12:19 PM,Grading
+Bruce,Parsons,bparson@ncsu.edu,E115,10/15/2025,4:47 PM,7:04 PM,Proctoring
+Bruce,Parsons,bparson@ncsu.edu,E115,10/23/2025,12:13 PM,3:01 PM,Proctoring
+Bruce,Parsons,bparson@ncsu.edu,E115,10/2/2025,9:55 AM,10:46 AM,Grading
+Bruce,Parsons,bparson@ncsu.edu,E115,10/28/2025,4:48 PM,8:55 PM,Office Hours
+Bruce,Parsons,bparson@ncsu.edu,E115,10/3/2025,8:45 AM,9:49 AM,Grading
+Bruce,Parsons,bparson@ncsu.edu,E115,10/20/2025,10:28 AM,1:49 PM,Communication
+Bruce,Parsons,bparson@ncsu.edu,E115,10/9/2025,10:44 AM,2:38 PM,Office Hours
+Bruce,Parsons,bparson@ncsu.edu,E115,10/18/2025,10:32 AM,11:11 AM,Proctoring
+Bruce,Parsons,bparson@ncsu.edu,E115,10/29/2025,2:40 PM,4:58 PM,Grading
+Bruce,Parsons,bparson@ncsu.edu,E115,10/23/2025,12:51 PM,2:28 PM,Lab
+Bruce,Parsons,bparson@ncsu.edu,E115,10/27/2025,9:19 AM,10:59 AM,Proctoring
+Bruce,Parsons,bparson@ncsu.edu,E115,10/26/2025,11:53 AM,3:02 PM,Grading
+Bruce,Parsons,bparson@ncsu.edu,E115,10/17/2025,2:55 PM,5:24 PM,Communication
+Bruce,Parsons,bparson@ncsu.edu,E115,10/12/2025,9:28 AM,11:06 AM,Communication
+Bruce,Parsons,bparson@ncsu.edu,E115,10/25/2025,8:45 AM,11:52 AM,Meeting
+Bruce,Parsons,bparson@ncsu.edu,E115,10/12/2025,10:47 AM,12:03 PM,Grading
+Bruce,Parsons,bparson@ncsu.edu,E115,10/27/2025,11:22 AM,3:19 PM,Lab
+Bruce,Parsons,bparson@ncsu.edu,E115,10/25/2025,10:16 AM,1:15 PM,Proctoring
+Bruce,Parsons,bparson@ncsu.edu,E115,10/6/2025,8:59 AM,11:23 AM,Office Hours
+Orlando,King,oking@ncsu.edu,E115,10/17/2025,11:25 AM,12:00 PM,Communication
+Orlando,King,oking@ncsu.edu,E115,10/4/2025,10:03 AM,1:35 PM,Grading
+Orlando,King,oking@ncsu.edu,E115,10/2/2025,4:08 PM,7:25 PM,Grading
+Orlando,King,oking@ncsu.edu,E115,10/18/2025,11:05 AM,12:33 PM,Grading
+Orlando,King,oking@ncsu.edu,E115,10/24/2025,1:33 PM,3:04 PM,Communication
+Orlando,King,oking@ncsu.edu,E115,10/17/2025,9:46 AM,10:20 AM,Lab
+Orlando,King,oking@ncsu.edu,E115,10/25/2025,8:57 AM,12:06 PM,Lab
+Orlando,King,oking@ncsu.edu,E115,10/16/2025,8:04 AM,11:46 AM,Communication
+Orlando,King,oking@ncsu.edu,E115,10/17/2025,11:35 AM,2:19 PM,Grading
+Orlando,King,oking@ncsu.edu,E115,10/19/2025,1:36 PM,4:37 PM,Office Hours
+Orlando,King,oking@ncsu.edu,E115,10/24/2025,5:14 PM,6:26 PM,Meeting
+Orlando,King,oking@ncsu.edu,E115,10/1/2025,12:01 PM,3:16 PM,Meeting
+Orlando,King,oking@ncsu.edu,E115,10/8/2025,12:28 PM,2:51 PM,Communication
+Orlando,King,oking@ncsu.edu,E115,10/19/2025,4:44 PM,8:39 PM,Meeting
+Orlando,King,oking@ncsu.edu,E115,10/21/2025,10:04 AM,12:17 PM,Meeting
+Orlando,King,oking@ncsu.edu,E115,10/17/2025,5:28 PM,6:08 PM,Lab
+Orlando,King,oking@ncsu.edu,E115,10/2/2025,3:08 PM,6:44 PM,Office Hours
+Orlando,King,oking@ncsu.edu,E115,10/6/2025,2:55 PM,6:22 PM,Meeting
+Orlando,King,oking@ncsu.edu,E115,10/14/2025,11:54 AM,1:21 PM,Proctoring
+Orlando,King,oking@ncsu.edu,E115,10/29/2025,4:25 PM,8:16 PM,Office Hours
+Orlando,King,oking@ncsu.edu,E115,10/15/2025,4:12 PM,7:17 PM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/11/2025,2:28 PM,6:45 PM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/17/2025,4:00 PM,7:21 PM,Office Hours
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/22/2025,5:22 PM,8:22 PM,Office Hours
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/26/2025,3:31 PM,6:20 PM,Office Hours
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/14/2025,11:18 AM,3:09 PM,Proctoring
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/29/2025,5:36 PM,8:27 PM,Proctoring
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/13/2025,2:27 PM,6:44 PM,Meeting
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/28/2025,2:53 PM,5:16 PM,Office Hours
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/11/2025,1:16 PM,3:54 PM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/17/2025,3:21 PM,6:00 PM,Lab
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/14/2025,12:58 PM,2:24 PM,Lab
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/6/2025,11:42 AM,3:43 PM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/16/2025,10:12 AM,2:47 PM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/18/2025,3:43 PM,4:13 PM,Meeting
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/18/2025,3:49 PM,4:19 PM,Meeting
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/15/2025,9:21 AM,10:02 AM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/28/2025,8:20 AM,10:58 AM,Grading
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/24/2025,4:14 PM,6:33 PM,Office Hours
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/4/2025,12:28 PM,2:49 PM,Lab
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/9/2025,12:29 PM,3:05 PM,Communication
+Anjolie,Chavez,achavez@ncsu.edu,CSC116,10/3/2025,12:16 PM,3:09 PM,Grading
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/16/2025,2:40 PM,6:12 PM,Office Hours
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/29/2025,1:36 PM,2:17 PM,Office Hours
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/4/2025,2:06 PM,3:24 PM,Meeting
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/19/2025,4:06 PM,7:37 PM,Grading
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/18/2025,4:01 PM,5:19 PM,Lab
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/24/2025,10:51 AM,2:25 PM,Meeting
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/6/2025,10:14 AM,11:43 AM,Office Hours
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/2/2025,10:08 AM,11:55 AM,Lab
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/16/2025,8:54 AM,12:27 PM,Meeting
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/27/2025,12:28 PM,2:08 PM,Office Hours
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/29/2025,11:40 AM,12:36 PM,Lab
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/31/2025,2:07 PM,6:07 PM,Office Hours
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/2/2025,1:25 PM,3:13 PM,Meeting
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/4/2025,3:09 PM,4:04 PM,Communication
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/21/2025,4:40 PM,5:03 PM,Office Hours
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/9/2025,9:17 AM,1:43 PM,Proctoring
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/8/2025,4:42 PM,5:36 PM,Proctoring
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/8/2025,11:43 AM,12:06 PM,Lab
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/15/2025,10:10 AM,11:54 AM,Communication
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/2/2025,5:14 PM,7:26 PM,Proctoring
+Nora,Ellison,nelliso@ncsu.edu,CSC116,10/20/2025,12:53 PM,1:40 PM,Lab
