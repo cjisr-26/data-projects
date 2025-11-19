@@ -3,6 +3,10 @@ My personal and/or academic data science, engineering, and analytics projects.
 
 ## independent-study
 - Relevant documentation and code for my data engineering independent study at NCSU
+- Project Proposal.pdf: Project proposal
+- TADataGen.py: Python script to generate random TA information
+- RandDateTimeGen.py: Python script with functions to generate random days and time frames
+- genData.csv: Generated TA data used for the application
 
 ## DataSciencePrompt_FanEngagement
 - Data science and analytics exercise used as part of a job application.
