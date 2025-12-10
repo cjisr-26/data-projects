@@ -13,8 +13,8 @@ def homepage():
 # Set up page navigation
 pg = st.navigation([
     st.Page(homepage, title = "Homepage"),
-    st.Page("pages/Clocking.py", title = "Log Hours")
-    #st.Page("pages/Reporting.py", title = "Generate Reports"),
+    st.Page("pages/Clocking.py", title = "Log Hours"),
+    st.Page("pages/Reporting.py", title = "Generate Reports"),
 ], position = "top")
 
 pg.run()
