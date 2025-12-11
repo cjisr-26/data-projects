@@ -7,6 +7,7 @@ My personal and/or academic data science, engineering, and analytics projects.
 - TADataGen.py: Python script to generate random TA information
 - RandDateTimeGen.py: Python script with functions to generate random days and time frames
 - genData.csv: Generated TA data used for the application
+- Data Prep.sql: SQL code used to prepare 'genData.csv' for use
 
 ## independent-study-app
 **Application code files for my independent study**  
