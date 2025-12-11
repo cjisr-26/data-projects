@@ -10,7 +10,10 @@ My personal and/or academic data science, engineering, and analytics projects.
 
 ## independent-study-app
 **Application code files for my independent study**  
-- Access Application: https://wolftime.streamlit.app/
+- Access Streamlit Application: https://wolftime.streamlit.app/
+- streamlit_app.py: Code for homepage
+- pages/Clocking.py: Code for hour clocking page
+- pages/Reporting.py: Code for report generation page
 
 ## DataSciencePrompt_FanEngagement
 **Data science and analytics exercise**
