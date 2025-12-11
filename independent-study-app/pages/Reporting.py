@@ -1,7 +1,9 @@
 import streamlit as st
 from datetime import datetime
 
+# Create Snowflake connection and session for data retrieval
 conn = st.connection("snowflake")
+session = conn.session()
 
 st.subheader("Get Time Summaries :page_facing_up:")
 
@@ -23,9 +25,11 @@ def collect_total_time(times_in, times_out):
     return total_hrs, total_mins
     
 # Get current state of the student information table
-ta_logs_df = conn.query("SELECT * FROM INDEP_STUDY.PUBLIC.STUDENT_INFO")
+# Get current state of the student information table
+ta_logs = session.sql("SELECT * FROM INDEP_STUDY.PUBLIC.STUDENT_INFO")
 
-# Rename columns
+# Convert sql table to a pandas dataframe
+ta_logs_df = ta_logs.to_pandas()
 ta_logs_df.rename(columns = {
     'FIRST_NAME':'First Name', 
     'LAST_NAME':'Last Name',

@@ -3,7 +3,9 @@ import streamlit as st
 import re
 from datetime import datetime
 
+# Create Snowflake connection and session for instant data updates
 conn = st.connection("snowflake")
+session = conn.session()
 
 st.subheader("Log Your Hours :writing_hand:")
     
@@ -49,17 +51,15 @@ if (submit_btn):
     elif (not valid_times(time_in, time_out)):
         st.error("Please Enter Valid Time(s)")
     else:
-        # Use a parameterized query to insert --> more secure
-        insert_stmnt = "INSERT INTO INDEP_STUDY.PUBLIC.STUDENT_INFO \
-                        (FIRST_NAME, LAST_NAME, EMAIL, COURSE, WORK_DATE, TIME_IN, TIME_OUT, WORK_TYPE)\
-                        VALUES(?, ?, ?, ?, ?, ?, ?, ?)"
+        # Use a parameterized query to insert for security
+        insert_stmnt = '''
+            INSERT INTO INDEP_STUDY.PUBLIC.STUDENT_INFO (FIRST_NAME, LAST_NAME, EMAIL, COURSE, WORK_DATE, TIME_IN, TIME_OUT, WORK_TYPE)
+            VALUES(?, ?, ?, ?, ?, ?, ?, ?)     
+        ''' 
         params = [fname, lname, email, course, date, time_in, time_out, work_type]
         
         try:
-            with conn.cursor() as cursor:
-                cursor.execute(insert_stmnt, params)
-                
+            session.sql(insert_stmnt, params).collect()
             st.success("Submission Success!")
         except Exception as e:
             st.error("Submission Error")
-            st.error(e)
