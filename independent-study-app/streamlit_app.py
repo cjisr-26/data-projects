@@ -1,8 +1,5 @@
 # Import python packages
 import streamlit as st
-from snowflake.snowpark.context import get_active_session
-
-session = get_active_session()
 
 # Define App Title, shared between pages
 st.title("Wolftime 2.0 :clock1:")
@@ -21,7 +18,3 @@ pg = st.navigation([
 ], position = "top")
 
 pg.run()
-
-
-
-

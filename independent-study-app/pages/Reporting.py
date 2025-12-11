@@ -1,11 +1,30 @@
 import streamlit as st
 from datetime import datetime
-from snowflake.snowpark.context import get_active_session
 
-session = get_active_session()
+# Create Snowflake connection and session for data retrieval
+conn = st.connection("snowflake")
+session = conn.session()
 
 st.subheader("Get Time Summaries :page_facing_up:")
 
+## FUNCTION: Getting the total time spent working
+def collect_total_time(times_in, times_out):
+    # Define the time format
+    time_str_format = "%I:%M %p"
+
+    # Sum the times given
+    time = datetime.strptime(times_out[0], time_str_format) - datetime.strptime(times_in[0], time_str_format)
+    
+    for i in range(1, len(times_in)):
+        time += datetime.strptime(times_out[i], time_str_format) - datetime.strptime(times_in[i], time_str_format)
+
+    # Convert the timedelta to hours and minutes
+    total_hrs = int(time.total_seconds() // 3600)
+    total_mins = int((time.total_seconds() % 3600) // 60)
+    
+    return total_hrs, total_mins
+    
+# Get current state of the student information table
 # Get current state of the student information table
 ta_logs = session.sql("SELECT * FROM INDEP_STUDY.PUBLIC.STUDENT_INFO")
 
@@ -29,23 +48,6 @@ reporting_option = st.selectbox(
     placeholder = "Select method..."
 )
 
-## Function for getting the total time spent working
-def collect_total_time(times_in, times_out):
-    # Define the time format
-    time_str_format = "%I:%M %p"
-
-    # Sum the times given
-    time = datetime.strptime(times_out[0], time_str_format) - datetime.strptime(times_in[0], time_str_format)
-    
-    for i in range(1, len(times_in)):
-        time += datetime.strptime(times_out[i], time_str_format) - datetime.strptime(times_in[i], time_str_format)
-
-    # Convert the timedelta to hours and minutes
-    total_hrs = int(time.total_seconds() // 3600)
-    total_mins = int((time.total_seconds() % 3600) // 60)
-    
-    return total_hrs, total_mins
-    
 # Reporting Options
 if (reporting_option == "View All Logs"): # See everything
     # Show everything
@@ -58,7 +60,6 @@ if (reporting_option == "View All Logs"): # See everything
 
     # Display
     st.write(f"Total Time Spent Working: **{str(total_hrs)} hours and {str(total_mins)} minutes**")
-
 elif (reporting_option == "By TA"): # See select TAs
     # Get the first and last names of the TAs to select
     ta_names = []
@@ -141,7 +142,4 @@ elif (reporting_option == "By Work Type"): # See select reporting options
 
 
 
-
-
     
-
