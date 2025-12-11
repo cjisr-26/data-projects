@@ -56,3 +56,86 @@ if (reporting_option == "View All Logs"): # See everything
 
     # Display
     st.write(f"Total Time Spent Working: **{str(total_hrs)} hours and {str(total_mins)} minutes**")
+elif (reporting_option == "By TA"): # See select TAs
+    # Get the first and last names of the TAs to select
+    ta_names = []
+
+    for i in range(ta_logs_df['First Name'].nunique()):
+        ta_names.append(
+            ta_logs_df['First Name'].unique()[i] + " " + ta_logs_df['Last Name'].unique()[i])
+
+    # Get the user selection
+    ta_options = st.multiselect(
+        "Select the TAs to view.",
+        ta_names
+    )
+
+    # When the user makes a selection, filter the table, and display the user's selection
+    if (ta_options):
+        options_first = []
+        options_last = []
+
+        for i in range(len(ta_options)):
+            options_first.append(ta_options[i].split()[0])
+            options_last.append(ta_options[i].split()[1])
+
+        ta_logs_filt_df = ta_logs_df.loc[ta_logs_df['First Name'].isin(options_first) & ta_logs_df['Last Name'].isin(options_last)]
+        st.dataframe(ta_logs_filt_df, hide_index = True)
+
+        # Collect total time
+        times_in = [time for time in ta_logs_filt_df['Time In']]
+        times_out = [time for time in ta_logs_filt_df['Time Out']]
+        total_hrs, total_mins = collect_total_time(times_in, times_out)
+
+        # Display
+        st.write(f"Total Time Spent Working for Selected TA(s): **{str(total_hrs)} hours and {str(total_mins)} minutes**")
+    
+elif (reporting_option == "By Course"): # See select courses
+    # Get the courses available
+    course_names = ta_logs_df['Course'].unique()
+    
+    # Get the user selection
+    course_options = st.multiselect(
+        "Select the Courses to view.",
+        course_names
+    )
+    
+    # When the user makes a selection, filter the table, and display the user's selection
+    if (course_options): 
+        ta_logs_filt_df = ta_logs_df.loc[ta_logs_df['Course'].isin(course_options)]
+        st.dataframe(ta_logs_filt_df, hide_index = True)
+
+        # Collect total time
+        times_in = [time for time in ta_logs_filt_df['Time In']]
+        times_out = [time for time in ta_logs_filt_df['Time Out']]
+        total_hrs, total_mins = collect_total_time(times_in, times_out)
+
+        # Display
+        st.write(f"Total Time Spent Working for Selected Course(s): **{str(total_hrs)} hours and {str(total_mins)} minutes**")
+        
+elif (reporting_option == "By Work Type"): # See select reporting options
+    # Get the work types available
+    work_names = ta_logs_df['Work Type'].unique()
+
+    # Get the user selection
+    work_options = st.multiselect(
+        "Select the Work Types to view.",
+        work_names
+    )
+
+    # When the user makes a selection, filter the table, and display the user's selection
+    if (work_options): 
+        ta_logs_filt_df = ta_logs_df.loc[ta_logs_df['Work Type'].isin(work_options)]
+        st.dataframe(ta_logs_filt_df, hide_index = True)
+
+        # Collect total time
+        times_in = [time for time in ta_logs_filt_df['Time In']]
+        times_out = [time for time in ta_logs_filt_df['Time Out']]
+        total_hrs, total_mins = collect_total_time(times_in, times_out)
+
+        # Display
+        st.write(f"Total Time Spent Working for Selected Work Type(s): **{str(total_hrs)} hours and {str(total_mins)} minutes**")
+
+
+
+    
